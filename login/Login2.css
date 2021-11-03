@@ -1,0 +1,24 @@
+.container {
+  width: 30%;
+  padding: 50px ;
+  background-color: rgba(255, 255, 255, 0);
+  margin-top: 5px;
+}
+button {
+  width: 48%;
+}
+button  {
+  height: 32px;
+width: 110px;
+left: 117px;
+top: 420px;
+border-radius: 10px;
+  margin-top: 10%;
+}
+#Login{
+  background: linear-gradient(180deg, #6AC9C9 0%, #43E7FE 100%);
+}
+#id{
+  background: grey;
+  color: black;
+}
